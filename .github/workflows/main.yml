@@ -153,4 +153,4 @@ jobs:
           context: ./gateway/
           push: true
           # Тут вместо username должен быть ваш логин на Docker Hub
-          tags: ffleeting/taski_gateway:latest
+          tags: fleeting12/taski_gateway:latest
